@@ -1,0 +1,32 @@
+.heading {
+    width:100%;
+    font-size: 40px;
+    font-weight: bolder;
+    box-shadow: 5px 20px 20px gray;
+}
+
+.image {
+    width:100px;
+    height: 100px;
+}
+
+.anchors {
+    background:whitesmoke;
+    border-radius: 20px;
+    font-size: 30px;
+    color: black;
+    border: 7px ridge rgb(116, 116, 116);
+    font-family: 'Franklin Gothic Medium'
+}
+
+.copy-right-footer {
+    background: lightseagreen;
+    width: 100%;
+    bottom:0;
+    position:fixed;
+    text-align:center;
+    color:darkblue;
+    font-size:30px;
+    font-weight:bolder;
+    text-shadow: 5px 5px 5px rgb(97, 97, 97);
+}
